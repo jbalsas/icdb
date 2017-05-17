@@ -17,10 +17,10 @@ weight: 2
 
 Data in Data out, no side effects
 
-> With mutability come overhead and bugs  
+> With mutability come overhead and bugs
 
 **Challenges of immutability**
-- Speed 
+- Speed
 - Memory
 
 **Immutable Data Structures** don't change
@@ -56,3 +56,10 @@ Related Links | Rating
 [immutable-js](https://facebook.github.io/immutable-js/) | ★★★☆☆
 
 </article>
+
+<article id="4">
+
+[Video on Youtube](https://www.youtube.com/watch?v=Wo0qiGPSV-s)
+
+</article>
+

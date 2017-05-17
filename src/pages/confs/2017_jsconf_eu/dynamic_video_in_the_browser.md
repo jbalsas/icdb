@@ -20,6 +20,8 @@ weight: 2
 - Real-time graph and timeline modifications
 - Mobile support
 - Integrates with A-Frame
+- Uses WebGL (1.0) and GLSL for faster pixel processing
+- Supports custom GLSL shaders for personalized effects
 
 **Reading video.currentTime is not frame accurate**
 Use `requestAnimationFrame`
