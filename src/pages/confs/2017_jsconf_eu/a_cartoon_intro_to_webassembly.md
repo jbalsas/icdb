@@ -50,5 +50,6 @@ Nice talk about compilers and webassembly. Very easy to understand, but not very
 
 Related Links | Rating
 --- | ---
-
+[Video](https://www.youtube.com/watch?v=HktWin_LPf4)
 </article>
+

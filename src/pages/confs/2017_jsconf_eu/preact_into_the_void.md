@@ -26,7 +26,7 @@ In VDom, keys attribute meaningful order to a set of uniform elements
 
 **Performance**
 
-> The DOM is slow  
+> The DOM is slow
 
 - DOM is accessible
 - DOM is extendable
@@ -67,5 +67,6 @@ Related Links | Rating
 [HyperScript](https://github.com/hyperhype/hyperscript) | ★★★☆☆
 [IRHydra2](http://mrale.ph/irhydra/2/) | ★★★☆☆
 [ESBench](https://esbench.com/) | ★★★☆☆
-
+[Video](https://www.youtube.com/watch?v=LY6y3HbDVmg) |
+[Slides](http://slides.com/developit/preact-into-the-void0#/) |
 </article>

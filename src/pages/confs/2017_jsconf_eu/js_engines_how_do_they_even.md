@@ -25,11 +25,11 @@ In V8, the baseline compiler is **Ignition** and the optimizer is **Turbofan**
 **Object Types**
 Optimized compiled code makes use of observed types (internal representation) to run faster. It accepts up to 4 type shapes or 312 in a less optimized version.
 
-> Always construct the same type of objects!  
+> Always construct the same type of objects!
 
 Try experiments with Node and Chrome is possible
 
-> Write code that looks like statically typed  
+> Write code that looks like statically typed
 
 </article>
 
@@ -49,5 +49,12 @@ Related Links | Rating
 --- | ---
 [Ignition](https://v8project.blogspot.com.es/2016/08/firing-up-ignition-interpreter.html) | ★★★☆☆
 [TurboFan](https://blog.chromium.org/2015/07/revving-up-javascript-performance-with.html) | ★★★☆☆
+
+</article>
+
+<article id="3">
+
+
+[Video on Youtube](https://www.youtube.com/watch?v=p-iiEDtpy6I)
 
 </article>
